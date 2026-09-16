@@ -1,0 +1,126 @@
+Job_title,Experience(Yrs),Education_level,Skills_Count,Industry,Company_Size,Location,Remote_Work,Certifications,Salary
+AI Engineer,10,Bachelor,2,Healthcare,Medium,India,Hybrid,2,109413
+Data Analyst,5,Bachelor,17,Telecom,Small,Australia,No,0,93764
+Frontend Developer,18,PhD,4,Media,Medium,Singapore,No,1,148123
+Business Analyst,19,PhD,13,Retail,Medium,Canada,Yes,0,189123
+Product Manager,15,Bachelor,7,Manufacturing,Large,Sweden,Yes,0,165069
+AI Engineer,0,High School,4,Education,Enterprise,USA,No,2,180351
+Backend Developer,6,High School,16,Manufacturing,Enterprise,Canada,No,3,165375
+Machine Learning Engineer,4,Bachelor,18,Healthcare,Enterprise,Canada,Hybrid,5,202463
+AI Engineer,5,Diploma,14,Telecom,Enterprise,Singapore,Yes,0,171834
+Frontend Developer,18,PhD,2,Retail,Enterprise,India,Hybrid,5,128377
+Frontend Developer,1,High School,10,Healthcare,Large,Netherlands,Yes,5,105755
+Business Analyst,19,Master,7,Finance,Large,Netherlands,Yes,5,157417
+Product Manager,8,High School,3,Healthcare,Medium,Canada,Yes,3,154190
+Data Analyst,3,Bachelor,3,Education,Startup,Singapore,Yes,4,87600
+Business Analyst,14,PhD,5,Healthcare,Enterprise,India,No,1,106481
+Business Analyst,0,Bachelor,9,Technology,Medium,Remote,No,4,85143
+Machine Learning Engineer,11,PhD,16,Consulting,Medium,Germany,Hybrid,3,191757
+DevOps Engineer,10,Bachelor,1,Education,Large,UK,No,2,155931
+Product Manager,9,Master,12,Finance,Small,Singapore,Yes,1,141207
+Software Engineer,11,High School,10,Media,Large,Sweden,No,1,124532
+Business Analyst,4,Bachelor,15,Retail,Medium,UK,Hybrid,0,108203
+Cybersecurity Analyst,17,Diploma,7,Government,Small,Germany,Hybrid,5,161268
+DevOps Engineer,10,Bachelor,8,Government,Small,Germany,Yes,1,151828
+Software Engineer,5,High School,2,Retail,Enterprise,Sweden,Hybrid,1,115827
+Cybersecurity Analyst,12,High School,15,Technology,Small,Australia,Hybrid,1,125030
+Product Manager,13,Master,8,Retail,Medium,India,Hybrid,3,113838
+Data Scientist,2,Bachelor,14,Education,Startup,Remote,Yes,5,109478
+Cybersecurity Analyst,9,PhD,19,Technology,Medium,Germany,No,2,168253
+Backend Developer,7,Diploma,15,Telecom,Medium,Australia,No,3,119988
+DevOps Engineer,4,Diploma,19,Technology,Large,Australia,Hybrid,2,141409
+Cybersecurity Analyst,4,PhD,8,Media,Startup,Australia,No,4,121972
+Cloud Engineer,8,PhD,3,Finance,Medium,UK,No,0,162923
+Data Scientist,13,Master,3,Government,Large,India,Yes,0,111158
+Frontend Developer,14,Diploma,17,Finance,Startup,India,Yes,2,84456
+Frontend Developer,18,Diploma,18,Government,Large,Sweden,No,1,158451
+Backend Developer,10,Master,4,Technology,Small,Australia,Hybrid,1,115823
+Cybersecurity Analyst,0,PhD,13,Telecom,Large,Singapore,Hybrid,2,143181
+Cybersecurity Analyst,11,Bachelor,10,Healthcare,Medium,Canada,Yes,0,167629
+Machine Learning Engineer,15,PhD,15,Consulting,Medium,Germany,Hybrid,5,213920
+Cybersecurity Analyst,10,Master,12,Telecom,Enterprise,Australia,Yes,5,184393
+AI Engineer,5,Diploma,10,Government,Small,Germany,Hybrid,5,143403
+Data Analyst,2,PhD,4,Telecom,Small,Netherlands,Hybrid,5,96611
+Cloud Engineer,5,PhD,4,Retail,Small,Germany,Yes,4,152413
+Machine Learning Engineer,15,High School,15,Technology,Enterprise,Germany,Yes,2,212249
+Product Manager,8,High School,14,Healthcare,Large,Singapore,Hybrid,1,136543
+Machine Learning Engineer,8,Bachelor,17,Telecom,Small,Canada,No,4,177406
+AI Engineer,9,Master,10,Consulting,Large,Netherlands,Yes,3,194075
+Product Manager,13,Diploma,3,Consulting,Startup,Canada,Yes,0,145069
+Cloud Engineer,14,Diploma,14,Education,Medium,Remote,No,4,155886
+AI Engineer,15,High School,13,Manufacturing,Small,Remote,Hybrid,2,152004
+Software Engineer,11,Diploma,11,Government,Startup,Canada,No,1,121570
+Data Analyst,17,Master,6,Finance,Large,Australia,Hybrid,4,149491
+Cloud Engineer,11,Diploma,8,Government,Small,Remote,No,0,127838
+Cybersecurity Analyst,12,High School,9,Healthcare,Enterprise,Singapore,No,2,163138
+Software Engineer,20,Master,6,Manufacturing,Enterprise,Remote,Hybrid,2,194364
+Backend Developer,0,PhD,11,Education,Large,UK,No,3,159274
+Cloud Engineer,10,Master,7,Telecom,Enterprise,Germany,No,0,190270
+Backend Developer,12,Bachelor,3,Education,Enterprise,Canada,Hybrid,4,186953
+Product Manager,8,Master,3,Healthcare,Large,Canada,No,4,186117
+Software Engineer,14,PhD,16,Media,Medium,Sweden,No,4,165569
+Data Analyst,2,Master,6,Media,Startup,Australia,Hybrid,1,89018
+Cybersecurity Analyst,4,Diploma,12,Consulting,Small,Netherlands,No,2,115238
+Cybersecurity Analyst,12,Master,15,Media,Small,Germany,No,3,165648
+AI Engineer,20,Diploma,5,Media,Startup,India,Hybrid,5,112984
+Cybersecurity Analyst,16,Master,1,Media,Small,Remote,Hybrid,3,147049
+Business Analyst,14,Diploma,18,Media,Medium,USA,Yes,2,153999
+Machine Learning Engineer,15,High School,6,Finance,Small,Netherlands,Yes,1,147962
+Data Scientist,11,Master,18,Finance,Large,Sweden,Hybrid,5,168153
+Data Analyst,12,High School,18,Technology,Medium,Australia,Yes,4,124202
+Software Engineer,6,Master,16,Retail,Large,USA,Yes,4,200988
+Business Analyst,12,High School,3,Technology,Large,Sweden,Hybrid,2,110222
+Data Analyst,14,Bachelor,2,Manufacturing,Medium,Sweden,Hybrid,0,101805
+Software Engineer,8,Master,2,Consulting,Small,Singapore,Yes,2,119579
+DevOps Engineer,9,PhD,4,Healthcare,Enterprise,UK,Yes,1,208215
+DevOps Engineer,18,High School,6,Retail,Startup,Sweden,Hybrid,5,127545
+Backend Developer,2,Diploma,18,Healthcare,Medium,Australia,Hybrid,2,102766
+Data Analyst,0,High School,5,Telecom,Large,UK,Hybrid,3,91705
+DevOps Engineer,10,Bachelor,4,Consulting,Large,UK,Yes,0,171414
+Software Engineer,1,Diploma,3,Consulting,Enterprise,Remote,Yes,4,128205
+Backend Developer,9,Master,15,Education,Medium,UK,Hybrid,2,152842
+Cybersecurity Analyst,0,Diploma,19,Education,Enterprise,Canada,Yes,2,163299
+Software Engineer,8,High School,18,Retail,Enterprise,Singapore,No,1,134205
+Backend Developer,4,PhD,12,Telecom,Startup,India,Hybrid,1,77939
+Data Analyst,20,PhD,1,Manufacturing,Medium,USA,Yes,0,191096
+Business Analyst,3,Diploma,14,Consulting,Medium,UK,No,5,111115
+AI Engineer,12,High School,2,Finance,Medium,Netherlands,Yes,3,153247
+Cybersecurity Analyst,13,Bachelor,9,Consulting,Large,Sweden,No,3,159278
+Cloud Engineer,17,Master,9,Manufacturing,Large,Sweden,No,5,184436
+Business Analyst,20,High School,3,Technology,Small,Canada,Hybrid,1,138816
+Product Manager,1,Master,6,Technology,Medium,Australia,No,3,129229
+Software Engineer,11,PhD,8,Healthcare,Medium,Canada,No,3,171686
+Product Manager,2,Master,13,Telecom,Medium,Remote,Yes,0,139641
+Business Analyst,8,Bachelor,15,Government,Large,Germany,Hybrid,2,143723
+Backend Developer,18,Bachelor,8,Consulting,Large,India,No,3,110112
+Cloud Engineer,17,High School,2,Retail,Startup,Germany,Hybrid,3,133187
+Cybersecurity Analyst,3,Master,18,Retail,Large,UK,Hybrid,3,167315
+Cybersecurity Analyst,3,High School,5,Manufacturing,Enterprise,Netherlands,Hybrid,1,118379
+Cybersecurity Analyst,10,Diploma,3,Healthcare,Enterprise,India,No,0,106400
+Cloud Engineer,17,Master,17,Retail,Medium,Germany,No,2,187913
+Data Scientist,8,Diploma,7,Manufacturing,Small,Remote,Yes,1,118562
+Cloud Engineer,12,Bachelor,2,Consulting,Enterprise,USA,Yes,2,211319
+AI Engineer,19,Bachelor,4,Media,Medium,Singapore,Hybrid,3,176966
+Cloud Engineer,16,PhD,13,Government,Medium,USA,No,5,230499
+Business Analyst,5,PhD,18,Education,Startup,Netherlands,No,1,104364
+Data Scientist,8,High School,16,Telecom,Small,UK,No,2,138497
+Cybersecurity Analyst,19,PhD,12,Telecom,Enterprise,Singapore,Yes,3,224252
+Business Analyst,15,Bachelor,11,Government,Medium,Germany,Hybrid,4,136322
+Business Analyst,5,Master,15,Manufacturing,Large,Singapore,Hybrid,0,113830
+Frontend Developer,6,Diploma,19,Finance,Startup,UK,Hybrid,1,104707
+Machine Learning Engineer,20,Master,15,Education,Medium,Singapore,Yes,0,194556
+Data Scientist,17,PhD,3,Finance,Medium,Netherlands,Hybrid,3,161188
+Business Analyst,9,PhD,16,Consulting,Small,UK,Hybrid,5,156923
+Machine Learning Engineer,2,High School,9,Government,Large,UK,No,3,150104
+Machine Learning Engineer,4,Master,17,Consulting,Enterprise,Netherlands,No,2,175882
+Data Scientist,2,PhD,18,Manufacturing,Large,Netherlands,Hybrid,5,153715
+Frontend Developer,0,Diploma,1,Retail,Enterprise,Canada,Yes,1,128777
+Product Manager,20,Diploma,13,Media,Small,Remote,Hybrid,0,139296
+Backend Developer,9,Bachelor,12,Finance,Medium,Germany,Yes,3,140099
+AI Engineer,3,Diploma,18,Technology,Medium,USA,No,2,179209
+Backend Developer,4,Master,2,Manufacturing,Medium,UK,No,1,127163
+Cloud Engineer,12,PhD,18,Manufacturing,Small,Remote,Yes,5,165230
+Cybersecurity Analyst,13,Diploma,10,Education,Enterprise,USA,Yes,1,214121
+AI Engineer,14,Master,2,Finance,Startup,Sweden,Hybrid,1,146091
+Cloud Engineer,4,Master,8,Government,Medium,Singapore,Yes,2,128586
+Business Analyst,0,High School,8,Finance,Small,India,No,2,43673
